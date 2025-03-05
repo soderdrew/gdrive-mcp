@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+.env
+.venv
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Configuration and Secrets
+config/credentials.json
+config/token.json
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Temporary files
+*.swp
+*~
+
+# Specific project ignores
+config/secrets/ 
